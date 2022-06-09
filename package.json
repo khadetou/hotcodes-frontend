@@ -20,6 +20,7 @@
     "chartjs-adapter-moment": "^1.0.0",
     "country-calling-code": "^0.0.3",
     "flag-icons": "^6.2.0",
+    "iconv-lite": "^0.6.3",
     "js-cookie": "^3.0.1",
     "jwt-decode": "^3.1.2",
     "moment": "^2.29.3",

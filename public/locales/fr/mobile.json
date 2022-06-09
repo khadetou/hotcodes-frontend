@@ -1,0 +1,18 @@
+{
+    "banner":{
+        "h1":"Obtenez vos propres applications mobiles pour iOS et Android sans aucun tracas!",
+        "p":"We help you transform your brand through digital strategy, technology development, digital marketing and marketing automation."
+    },
+    "ios": {
+        "h1": "Applications. IOS natives",
+        "p":"Nous construisons des applications IOS natives optimisées, sécurisées et rapides, en utilisant xcode."
+    },
+    "android": {
+        "h1": "Applications. Android natives",
+        "p":"Nous construisons optimisé, sécurisé et rapide des applications natives Android, en utilisant Android Studio."
+    },
+    "hybrid":{
+        "h1":"Applications. Hybrides",
+        "p":"Nous construisons des applications mobiles hybrides optimisées, sécurisées et rapides."
+    }
+}

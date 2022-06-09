@@ -1,0 +1,15 @@
+{
+    "first":"Nous utilisons la technologie multi-micro et d’annulation d’écho pour que tout le monde puisse utiliser l’appareil",
+    "about": {
+        "title": "A propos",
+        "about1":"Notre équipe",
+        "about2":"Produits",
+        "about3":"Blogs"
+    },
+    "company":{
+        "title":"Company",
+        "company1":"Partenaires",
+        "company2":"Carrières",
+        "company3":"Contactez Nous"
+    }
+}

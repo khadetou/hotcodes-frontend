@@ -1,0 +1,41 @@
+{
+    "banner":{
+      
+            "h1":"Nous faisons des conceptions incroyables pour votre entreprise",
+            "p":"Nous construisons un design moderne qui respecte toutes les règles de conception ui/ux. Si vous voulez que votre site Web soit comme ce jour et l’âge des sites Web et d’être professionnel, vous êtes au bon endroit.",
+            "btn":"Commencer",
+            "video":"REGARDER LA VIDEO"
+        },
+  
+    "cards":{
+        "photo":{
+            "topTitle":"Photo,graphique",
+            "h1":"Look and feel de la photographie",
+            "p":"Pour $2000 obtenez le site complet",
+            "button":"Voir plus",
+            "btn":"Choisir un forfait"
+        },
+        "illustration":{
+            "topTitle":"Illus,trastion",
+            "h1":"Aspect et convivialité de l’illustration",
+            "p":"Pour $2000 obtenez le site complet",
+            "button":"Voir plus",
+            "btn":"Choisir un forfait"
+        },
+        "minim":{
+            "topTitle":"Minimaliste ,et propre",
+            "h1":"Look and feel minimaliste",
+            "p":"Pour $2000 obtenez le site complet",
+            "button":"Voir plus",
+            "btn":"Choisir un forfait"
+        },
+        "crypto":{
+            "topTitle":"Crypto,currency",
+            "h1":"look and feel Cryptocurrency ",
+            "p":"Pour $2000 obtenez le site complet",
+            "button":"Voir plus",
+            "btn":"Choisir un forfait"
+        },
+        "select":"Sélectionner un modèle"
+    }
+}

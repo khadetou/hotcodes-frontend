@@ -1,0 +1,141 @@
+{
+  "banner": {
+    "h1": "Vivez une Nouvelle étape du Génialisme",
+    "p": "Nous concevons sans aucun problème votre site web, application mobile, application desktop, nous resolvons vos problèmes en utilisant les des dernieres technologies et les les meilleurs outils pour vous aider à réaliser vos projets.",
+    "button": "Commencer",
+    "video": "Regarder la vidéo"
+  },
+  "services": {
+    "h1": "Nous vous proposons les meilleures solutions",
+    "p": "Nous construisons votre site Web, application mobile, application de bureau, sans aucun problème, Nous résolvons votre problème en utilisant les dernières technologies et les meilleures pratiques pour aider à construire un produit réussi.",
+    "design": {
+      "title": "UI/UX Design",
+      "p": "Nous construisons un beau design moderne moderne qui fera croître votre entreprise plus rapidement et vous obtiendrez la meilleure clientèle de celui-ci."
+    },
+    "dev": {
+      "title": "Développement Logiciel",
+      "p": "Nous développons des applications Web modernes optimisées, des applications de bureau et des applications mobiles."
+    },
+    "marketing": {
+      "title": "Marketing Digital",
+      "p": "Avec nos techniques de marketing numérique, le monde entendra parler de votre entreprise,Vous verrez votre entreprise croître en temps réel."
+    }
+  },
+  "presentation": {
+    "design": {
+      "title": "UI/UX Design",
+      "h1": "Nous développons et construisons des conceptions incroyables",
+      "p": "Nous construisons un design moderne qui respecte toutes les règles de conception ui/ux. Si vous voulez que votre site Web soit comme ce jour et les sites Web d’âge et d’être professionnel, vous êtes au bon endroit.",
+      "button": "Learn more"
+    },
+    "dev": {
+      "title": "Software Development",
+      "h1": "Nous construisons et optimisons votre logiciel",
+      "p": "Pour donner une valeur heigh à la performance des applications que nous construisons, qui pourrait vous permettre de mieux exécuter dans la tâche et vous permettant de gagner plus.",
+      "button": "Learn more"
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "h1": "Nous Fournissons les meilleurs. services de marketing numérique",
+      "p": "HotCodes garde une longueur d’avance sur les tendances du marketing numérique. Notre succès nous permet de devancer nos concurrents grâce à notre capacité à anticiper le changement et l’innovation.",
+      "button": "Learn more"
+    }
+  },
+  "process": {
+    "h1": "Notre processus de travail",
+    "p": "Nous fournirons beaucoup de projets pré-construits dans notre plateforme afin de rendre les choses plus dynamiques, mais si vous ne trouvez pas ce que vous voulez dans ce que nous vous proposons, vous pouvez toujours pré-commander votre application web, mobile ou de bureau",
+    "cards":{
+      "1": {
+        "title": "Project Study",
+        "p": "Nous étudions le projet et essayons de comprendre l’objectif final de la cible publique et la meilleure façon de traiter les problèmes afin de fournir les meilleures solutions à vos problèmes."
+      },
+      "2": {
+        "title": "UI/UX Design",
+        "p": "Nous allons construire le design ensemble sens à chaque étape, nous allons envoyer le résultat afin que vous renonciez si c’est bien ou vous voulez changer quelque chose sur la conception."
+      },
+      "3": {
+        "title": "Development",
+        "p": "Pour ce qui est de la conception, dans la section de développement, chaque étape vous sera envoyée aux fins de validation. Il s’agira d’un travail d’équipe entre vous et nous.."
+      },
+      "4": {
+        "title": "Results",
+        "p": "À la fin, vous obtiendrez votre application Web, application mobile ou application de bureau comme vous le souhaitez. Et nous pourrions aller jusqu’à le maintenir pour vous."
+      }
+    }
+  },
+  "contact":{
+    "h1": "Nous Contacter",
+    "form": {
+      "firstname": "Prénom",
+      "lastname": "Nom",
+      "phone": "Numéro de téléphone",
+      "email": "Email",
+      "message": "Saisissez votre message",
+      "button": "Envoyer"
+    }
+},
+"Form":{
+  "title1":"Qu'est-ce qu'on va realiser ?",
+  "form1":{
+    "plateform":{
+      "list1":"Site Web",
+      "list2":"Application Web",
+      "list3":"pwa"
+    },
+    "type":{
+      "list1":"E-commerce",
+      "list2":"Blog",
+      "list3":"Portfolio",
+      "list4":"Site de divertissement",
+      "list5":"E-Learning",
+      "list6":"Infoproneur website",
+      "list7":"Site Web du portail Web",
+      "list8":"Autre",
+      "placeholder1":"Choisir une plateforme",
+      "placeholder2":"type d'application",
+      "placeholder3":"Entrer le type d’application",
+      "placeholder4":"Entrez le nom de l’application Type.",
+      "placeholder5":"Entrez la description de votre application",
+      "placeholder6":"Choisir un objectif"
+
+    }
+  },
+ 
+  "Goal":{
+    "title":"Quel est le but ?",
+    "goal1":"Faire en sorte que les gens ouvrent une session pour y accéder rapidement. ",
+    "goal2":"Montrer les avantages de l’utilisation de la plateforme",
+    "goal3":"Un endroit pour plus d’informations et contacter...",
+    "goal4":"Autre",
+    "placeholder":"Entrez l’objectif"
+  },
+  "target":{
+    "title":"Quel est le public cible? ?",
+    "target1":"Equipes à distance",
+    "target2":"Particuliers",
+    "target3":"Services publics",
+    "target4":" Petites entreprises",
+    "target5":"Autre",
+    "placeholder":"Entrez le public cible"
+  },
+  "functionnality":{
+    "title":"Ajouter des fonctionnalités spécifiques ?",
+    "functionnality1":"Blog",
+    "functionnality2":"News-Letter",
+    "functionnality3":"Soumission du formulaire",
+    "placeholder":"Saisir la fonctionnalité"
+  },
+  "button1":"Sauver",
+  "button2":"TÉLÉCHARGER LA FACTURE",
+  "title2":"Vous avez déjà un design partagez-le avec nous",
+  "upload":{
+    "title":"Charger des fichiers",
+    "p":"Les conceptions doivent être figma ou croquis ou adobe xd orpdf format, Heigh resolutionimage.",
+    "button":"Charger"
+  },
+  "link":"Inclure un lien figma vers votre projet",
+  "button":"Soumettre"
+  }
+
+
+}

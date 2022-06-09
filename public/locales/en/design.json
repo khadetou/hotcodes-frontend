@@ -1,0 +1,39 @@
+{
+    "banner":{
+        "h1":"We Make incredible designs for your business",
+        "p":"We build modern design that respect all the rules of ui/ux desing. If you want your website to be as this day and age websites and to be profetionnal you are on the right place.",
+        "btn":"Start Now",
+        "video":"WATCH THE VIDEO"
+    },
+    "Cards":{
+        "photo":{
+            "topTitle":"Photo,graphy",
+            "h1":"Photography look and feel",
+            "p":"For $2000 get the full website",
+            "button":"See More",
+            "btn":"Select a plan"
+        },
+        "illustration":{
+            "topTitle":"Illus,trastion",
+            "h1":"Illustrastion look and feel",
+            "p":"For $2000 get the full website",
+            "button":"See More",
+            "btn":"Select a plan"
+        },
+        "minim":{
+            "topTitle":"Minimalistic ,and clean",
+            "h1":"Minimalistic look and feel",
+            "p":"For $2000 get the full website",
+            "button":"See More",
+            "btn":"Select a plan"
+        },
+        "crypto":{
+            "topTitle":"Crypto,currency",
+            "h1":"Cryptocurrency look and feel",
+            "p":"For $2000 get the full website",
+            "button":"See More",
+            "btn":"Select a plan"
+        },
+        "select":"Select one model"
+    }
+}

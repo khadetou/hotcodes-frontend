@@ -1,0 +1,25 @@
+{
+    "banner":{
+        "h1":"Nous avons l’intention. de tout changer",
+        "p":"Hotcodes fournit les meilleurs services pour votre entreprise et lui permettent de croître plus rapidement.",
+        "button":"Voire Plus"
+    },
+    "presentation":{
+        "aboutUs":{
+            "h1":"A. propos",
+            "p":"Hotcodes est une organisation de développement dans le secteur informatique visant à conquérir les plus grands marchés internationaux et participer à la création de licornes au Sénégal."
+        },
+        "mission":{
+            "h1":"Notre. Mission",
+            "p":"Actuellement, hotcodes s'identifie comme une société de services et aussi un berceau de startups IT, notre objectif est de créer des licornes tout en attirant le plus grand nombre d'investisseurs au Sénégal."
+        },
+        "vision":{
+            "h1":"Notre. Vision",
+            "p":"Notre vision est de d'initier la révolution numérique et industrielle au Sénégal. Participer à la création d'entreprises industrielles pour la production et la transformation de pièces mécaniques et digitales, la création de logiciels, de systèmes automatisés et robotiques."
+        }
+    },
+    "team":{
+        "h1":"Notre Equipe",
+        "job":"Développeur"
+    }
+}

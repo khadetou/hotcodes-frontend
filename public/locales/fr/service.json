@@ -1,0 +1,88 @@
+{
+    "banner":{
+        "h1":"Nous fournissons les meilleurs. services numériques",
+        "p":"Les hotcodes fournissent les meilleurs services pour votre entreprise et lui permettent de croître plus rapidement",
+        "btn":"En savoir plus",
+        "button":"Commencer"
+    },
+    "serviceList": {
+        "design":{
+            "title":"Design",
+            "topTitle":"Ui/Ux",
+            "subTitle":"Obtenez la meilleure expérience de conception ui/ux.."
+        },
+        "marketing":{
+            "title":" Digital",
+            "topTitle":"Marketing",
+            "subTitle":"Obtenez la meilleure expérience de marketing numérique."
+        },
+        "web":{
+            "title":"Development",
+            "topTitle":"Web",
+            "subTitle":"Obtenez la meilleure expérience de développement web."
+        },
+        "mobile":{
+            "title":"Development",
+            "topTitle":"Mobile",
+            "subTitle":"Obtenez la meilleure expérience de développement mobile."
+        },
+        "title":{
+            "design":{
+                "h1":"Outils de conception", 
+                "p":"Nous utilisons les meilleurs outils pour offrir la meilleure qualité."
+            }, 
+            "web":{
+                "h1":"Outils de développement", 
+                "p":"Nous utilisons les meilleurs outils pour offrir la meilleure qualité."
+            },
+            "mobile":{
+                "h1":"Outils de développement", 
+                "p":"Nous utilisons les meilleurs outils pour offrir la meilleure qualité."
+            }
+            },
+            "tools":{
+                "design":{
+                    "illustrator":"Adobe Illustrator est un éditeur de graphiques vectoriels et un programme de conception développé et commercialisé par Adobe Inc",
+                    "xd":"Adobe XD est un logiciel de conception et de prototypage développé par Adobe et commercialisé par Adobe Inc",
+                    "framer":"Framer est un logiciel de prototypage développé par Framer et commercialisé par Framer",
+                    "figma":"Figma est un logiciel libre et open-source pour créer et partager des fichiers numériques de conception et d’illustration",
+                    "photoshop":"Photoshop est un logiciel de traitement d'image et de graphiques vectoriels développé par Adobe et commercialisé par Adobe Inc"
+                },
+                "frontend":{
+                    "react":"React est un composant JavaScript de développement de haute performance pour les applications web",
+                    "angular":"Angular est un framework JavaScript de développement d'application web",
+                    "nextjs":"Next.js est un framework JavaScript de développement d'application web",
+                    "vue":"Vue est un framework JavaScript de développement d'application web",
+                    "javascript":"JavaScript est un langage de programmation de haute performance",
+                    "html":"HTML est un langage de balisage pour créer des pages web",
+                    "css":"CSS est un langage de feuilles de style pour définir le style d'une page web",
+                    "tailwind":"Tailwind est un framework CSS de développement d'application web"
+                },
+                "animation":{
+                    "ae":"After Effects est un logiciel de montage vidéo et de création de vidéo pour Mac et Windows",
+                    "blender":"Blender est un logiciel d’animation 3D libre et open-source.",
+                    "premiere":"Premiere est un logiciel de montage vidéo et de création de vidéo pour Mac et Windows"
+                },
+                "backend":{
+                    "laravel":"Laravel est un framework PHP de développement d'application web",
+                    "php":"PHP est un langage de script côté serveur conçu pour le développement web mais aussi utilisé comme langage de programmation général.",                    
+                    "nodejs":"Node.js est un runtime JavaScript construit sur le moteur JavaScript V8 de Chrome.",
+                    "mongo":"MongoDB est un programme de base de données libre et open-source.",
+                    "mysql":"MySQL est un système de gestion de base de données relationnelle libre et open-source (RDBMS) basé sur SQL.",
+                    "postgresql":"PostgreSQL est un système de base de données objet-relationnel libre et open-source (ORDBMS) écrit dans le langage de programmation PostgreSQL.",
+                    "nestjs":"NestJS est un cadre pour la construction efficace et évolutive de Node. js serveur côté applications construites avec et en charge TypeScript."
+                },
+                "mobiledev":{              
+                    "xcode":"Xcode est un IDE de développement iOS et Mac OS",
+                    "androidstudio":"Android Studio est un IDE de développement Android"
+                   
+                },
+                "hybrid":{
+                    "pwa":"PWA est un concept de développement d'application web mobile",
+                    "flutter":"Flutter est un framework de développement d'application web mobile",
+                    "reactnative":"React Native est un framework de développement d'application web mobile"
+                }
+            }
+        }
+       
+    }

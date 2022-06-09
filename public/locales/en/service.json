@@ -1,0 +1,86 @@
+{
+    "banner":{
+        "h1":"Providing Best. Digital Services",
+        "p":"Hotcodes provide the best services for your business and allow it to grow faster.",
+        "btn":"Learn More",
+        "button":"Start Now"
+    },
+    "serviceList":{
+        "design":{
+            "title":"Design",
+            "topTitle":"Ui/Ux",
+            "subTitle":"Get the best ui/ux design experience."
+        },
+        "marketing":{
+            "title":"Marketing",
+            "topTitle":"Digital",
+            "subTitle":"Get the best digital marketing experience."
+        },
+        "web":{
+            "title":"Development",
+            "topTitle":"Web",
+            "subTitle":"Get the best web development experience."
+        },
+        "mobile":{
+            "title":"Development",
+            "topTitle":"Mobile",
+            "subTitle":"Get the best mobile development experience."
+        },
+        "title":{
+            "design":{
+                "h1":"Design tools", 
+                "p":"We use the best tools in order to deliver the best quality"
+            },
+            "web":{
+                "h1":"Web Development", 
+                "p":"We use the best tools in order to deliver the best quality"
+            },
+            "mobile":{
+                "h1":"Mobile Development", 
+                "p":"We use the best tools in order to deliver the best quality"
+            }
+        },
+        "tools":{
+            "design":{
+                "illustrator":"Adobe Illustrator is a vector graphics editor and design program.",
+                "xd":"Adobe XD is a vector-based user experience design tool for web apps and mobile apps.",
+                "framer":"Framer is primarily a design and prototyping tool.",
+                "figma":"Figma is a free and open-source software tool for creating and sharing digital design and illustration files.",
+                "photoshop":"Adobe Photoshop is a raster graphics editor developed and marketed by Adobe Systems Incorporated."
+            },
+            "frontend":{
+                "react":"React is a JavaScript library for building user interfaces.",
+                "angular":"Angular is a JavaScript framework for building single-page applications.",
+                "nextjs":"Next.js is a framework for building efficient and accessible websites.",
+                "vue":"Vue.js is a progressive framework for building user interfaces.",
+                "javascript":"JavaScript is a programming language that conforms to the ECMAScript specification.",
+                "html":"HTML is the standard markup language for creating web pages and web applications.",
+                "css":"CSS is a language used for describing the presentation of a document written in a markup language.",
+                "tailwind":"Tailwind CSS is a utility-first CSS framework for quickly building complex components with a clean, consistent design."
+            },
+            "animation":{
+                "ae":"After Effects is a software application used to create, edit, and view digital video and audio files.",
+                "blender":"Blender is a free and open-source 3D animation software package.",
+                "premiere":"Adobe Premiere Pro is a professional video editing software application developed by Adobe Systems Incorporated."
+            },
+            "backend":{
+                "laravel":"Laravel is a free, open-source PHP web framework, created by Taylor Otwell and intended for the development of web applications following the model–view–controller (MVC) architectural pattern.",
+                "php":"PHP is a server-side scripting language designed for web development but also used as a general-purpose programming language.",
+                "nodejs":"Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+                "mongo":"MongoDB is a free and open-source document-oriented database program.",
+                    "mysql":"MySQL is a free and open-source relational database management system (RDBMS) based on SQL.",
+                    "postgresql":"PostgreSQL is a free and open-source object-relational database system (ORDBMS) written in the programming language PostgreSQL.",
+                    "nestjs":"NestJS is a framework for building efficient and scalable Node. js server-side applications built with and fully supporting TypeScript."
+            },
+            "mobiledev":{
+                "xcode":"Xcode is a software development kit (SDK) for iOS and macOS.",
+                "androidstudio":"Android Studio is a free and open-source IDE for Android development."
+            },
+            "hybrid":{
+                "pwa":"Progressive Web Apps (PWA) are websites that are built using the latest web technologies like HTML, CSS, and JavaScript.",
+                "flutter":"Flutter is a cross-platform framework for building high-performance apps for iOS, Android, web, and desktop from a single codebase.",
+                "reactnative":"React Native is a framework for building native apps using React and the Flutter SDK."
+            }
+        }
+    }
+}

@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+* {
+  @apply m-0 p-0 box-border;
+}
+
+html,
+body {
+  @apply font-Inter overflow-x-hidden;
+}
+
+/* RC DROPDOWN */
+
+.rc-dropdown-menu > .rc-dropdown-menu-item:hover,
+.rc-dropdown-menu > .rc-dropdown-menu-item-selected {
+  @apply bg-light-pink !important;
+}
+
+.rc-dropdown-menu > .rc-dropdown-menu-item-active {
+  @apply bg-dark-pink text-white !important;
+}
+
+.rc-dropdown-menu li {
+  @apply h-1/2 flex items-center p-0 !important;
+}
+
+.rc-dropdown-menu ul {
+  @apply h-20 !important;
+}
+
+/* SWIPER JS */
+
+.swiper-slide {
+  @apply flex items-center;
+}
+
+.swiper-button-next {
+  @apply left-[52%] bg-[url('/images/swiper/arrow-right-circle.svg')] bg-no-repeat top-[97%] w-9 ml-4 !important;
+  &::after {
+    @apply hidden;
+  }
+}
+.swiper-button-prev {
+  @apply left-[48%] bg-no-repeat bg-[url('/images/swiper/arrow-left-circle.svg')] top-[97%] w-9 -ml-4 !important;
+  &::after {
+    @apply hidden;
+  }
+}
+
+.swiper-wrapper {
+  @apply h-full !important;
+}
+
+/* NATIVE CODE */
+.containers {
+  @apply max-w-full w-full px-5 sm:px-[30px] md:max-w-[1020px] lg:max-w-[1300px] mx-auto;
+}
+
+.blend {
+  background-blend-mode: overlay, color, overlay, difference, color-dodge,
+    difference, normal;
+}
+
+.nav {
+  a {
+    @apply font-medium lg:text-base xl:text-xl px-2 leading-none transition-all duration-[0.15s] cursor-pointer;
+    &:hover {
+    }
+    &.active {
+    }
+  }
+}
+.menu {
+  a {
+    @apply font-medium text-[1rem] py-[15px] leading-[1.2] border-b-[1px] border-solid border-[#e8e5e5] transition-all duration-[0.25s] hover:text-black cursor-pointer;
+
+    &.active {
+      @apply text-black;
+    }
+  }
+}
+
+.card {
+  &:not(:last-child) {
+    @apply lg:mr-5;
+  }
+}
+
+.flip-y {
+  transform: rotateY(180deg);
+  display: flex;
+  justify-content: flex-end;
+  @media (min-width: 1024px) {
+    transform: rotateY(0);
+  }
+}
+
+.focus {
+  @apply text-xs top-[13px] md:text-sm md:top-[14px] font-normal !important;
+}
+
+.calc {
+  top: calc(4px + 1%);
+}
+
+:webkit-scrollbar-track {
+  background-color: transparent !important;
+}
+
+:webkit-scrollbar-track-y {
+  width: 12px !important;
+}
+
+:webkit-scrollbar-thumb {
+  width: 12px !important;
+  background-color: black !important;
+  border-radius: 0 !important;
+}
+.tippy-box[data-theme~="grad"] {
+  @apply bg-grad-text-2 text-white font-bold !important;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* @tailwind variants; */

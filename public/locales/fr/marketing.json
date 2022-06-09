@@ -1,0 +1,43 @@
+{
+    "banner":{
+        "h1": "Succès du. marketing. numérique",
+        "p": "Augmentez vos ventes avec des hotcodes, nous explorons les meilleures solutions afin de fournir les meilleurs services de marketing numérique dont vous avez besoin.",
+        "button": "Démarrer maintenant",
+        "video":"voir la vidéo"
+    },
+    "band":{
+        "toptitle":"FAIRE PLUS",
+        "title": "Le but d’un hotcodes est d’augmenter vos ventes",
+        "build":"construire pour l’impact",
+        "buildTitle": "Nous identifions et entretenons une équipe vraiment diversifiée de concepteurs, développeurs et marketeurs",
+        "sync":"En harmonie avec vous",
+        "syncTitle":"Nous travaillons comme vous le faites en nous adaptant à vos flux de travail et à votre rythme, et nous visons à nous intégrer pour une."
+    },
+    "presentation":{
+        "toptitle":"POURQUOI NOUS ?",
+        "title":"Boostez votre trafic. de site Web!",
+        "p":"Notre travail nous passionne. Nos concepteurs restent à l’avant-garde pour fournir des conceptions de site Web engageantes et conviviales pour faire votre entreprise se démarquer. Nos développeurs s’engagent à maintenir les normes web les plus élevées afin que votre site résiste à l’épreuve du temps. Nous nous soucions de votre entreprise, c’est pourquoi nous travaillons avec vous.",
+        "button":"en savoir davantage",
+        "exptoptitle":"Experience",
+        "exptitle":"Payer pour un. travail de qualité",
+        "exparagraph":"HotCodes garde une longueur d’avance sur les tendances du marketing numérique. Notre succès nous place en tête du peloton de nos concurrents avec notre capacité à anticiper le changement et l’innovation."
+
+    },
+    "cards":{
+        "title":"Qu'offrons-nous",
+        "card1":{
+            "p": "Stratégie + résultats + clarté de vos campagnes de marketing numérique."
+        },
+        "card2":{
+            "p": "Assurer le meilleur retour sur investissement pour votre campagne SEO sur mesure requuirement"
+        },
+        "card3":{
+            "p": "Publicité et planification de contenu sur Facebook, Instagram, Twitter et plus encore."
+        },
+        "card4":{
+            "p": "Établir une liste d’utilisateurs cibles avant le lancement pour entrer sur le marché avec élan, puis recibler pour maximiser les conversions et assurer l’utilisation continue de votre application."
+        },
+        "button1":"voir plus",
+        "button2":"Choisir un forfait"
+    }
+}

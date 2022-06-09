@@ -1,0 +1,21 @@
+{
+    "banner":{
+        "title":"Nous construisons optimisé mobile. , web, applications de bureau",
+        "p":"Pour offrir une meilleure expérience utilisateur et rendre votre application plus efficace, nous utilisons les dernières technologies et outils pour créer les meilleures applications pour vous."
+    },
+    "section":{
+        "optimization":{
+            "title":"Sites Web. optimisés",
+            "p":"Selon Amazon, un ralentissement de charge de page d’une seconde seulement peut coûter $1.6 milliards de ventes par an. Nous fournissons des sites Web sécurisés et optimisés en utilisant les dernières technologies."
+        },
+        "responsive":{
+            "title":"Sites Web. adaptatifs",
+            "p":"Nous construisons application web, sites Web avec un grand hébergement à tout l’écran obtenir une application web / wesite avec un grand design réactif",
+            "button":"Learn more"
+        },
+        "progressive":{
+            "title":"Application Web. progressive",
+            "p":"Les PWA sont dépendants, prennent moins d’espace de stockage et de mises à jour comme une page Web, de sorte que les utilisateurs peuvent voir la fonctionnalité de mise à jour qui peut inclure comme Bluetooth, webcam, microphone et autres capteurs matériels."
+        }
+    }
+}

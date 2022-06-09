@@ -1,0 +1,21 @@
+{
+    "banner":{
+        "title":"We build optimized mobile., web, desktop apps",
+        "p":"To give a better user experience and to make your app more efficient, we use the latest technologies and tools to build the best apps for you."
+    },
+    "section":{
+        "optimization":{
+            "title":"Optimized. websites",
+            "p":"According to Amazon, a page load slowdown of just one second can cost $1.6 billion in sales per year. We provide secure and optimized websites by using the latest technologies."
+        },
+        "responsive":{
+            "title":"Responsive. websites",
+            "p":"We build web app, websites with a great accomodation to all screen get an web app/wesite with a great responsive design",
+            "button":"Learn more"
+        },
+        "progressive":{
+            "title":"Progressive. Web App",
+            "p":"PWAs are dependent, takes up less storage space and updates just like a web page- so that the users can see the update functionality which may include such as Bluetooth, webcam, microphone and other hardware sensors."
+        }
+    }
+}

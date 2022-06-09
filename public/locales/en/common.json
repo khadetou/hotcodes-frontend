@@ -1,0 +1,140 @@
+{
+  "banner": {
+    "h1": "Experience The Next Level Of Awesomeness",
+    "p": "We build your website, mobile app, desktop app, without any problem, We solve your problem by using the latest technology and best practices to help build a successful product.",
+    "button": "Get Started",
+    "video": "Watch the video"
+  },
+  "services": {
+    "h1": "We provide the best solutions for you",
+    "p": "We build your website, mobile app, desktop app, without any problem, We solve your problem by using the latest technology and best practices to help build a successful product.",
+    "design": {
+      "title": "UI/UX Design",
+      "p": "We build modern beautiful modern design that will make your business grow faster and you’ ll get the best highest clientel from it."
+    },
+    "dev": {
+      "title": "Software Development",
+      "p": "We build modern optimized web apps, desktop apps and mobile apps."
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "p": "With our digital marketing techniques the world will hear about your business,you will see your business grow in real time."
+    }
+  },
+  "presentation": {
+    "design": {
+      "title": "UI/UX Design",
+      "h1": "We Create and build. Incredible designs",
+      "p": "We build modern design that respect all the rules of ui/ux desing. If you want your website to be as this day and age websites and  to be profetionnal you are on the right place.",
+      "button": "Learn more"
+    },
+    "dev": {
+      "title": "Software Development",
+      "h1": "We Build and optimized web, mobile. & desktop apps",
+      "p": "To give a heigh value to the performance of the apps we build, wich could allow you to perform better in to the task  and allowing you to earn more.",
+      "button": "Learn more"
+    },
+    "marketing": {
+      "title": "Digital Marketing",
+      "h1": "Providing Best. Digital marketing Services",
+      "p": "HotCodes stays  ahead of the curve with digital marketing trends. Our success has us leading the pack amongst our competitors with our ability to anticipate change and innovation.",
+      "button": "Learn more"
+    }
+  },
+  "process": {
+    "h1": "Our Work Process",
+    "p": "We will provide a lot of pre-buid projects in our plateform in order to make things more dynamic, but if you do not find what you want in what we proposes you can still pre order your web, mobile or desktop app",
+    "cards":{
+      "1": {
+        "title": "Project Study",
+        "p": "We study the project and try to understand the end goal the public target and the best way to tacle th problems in order to deliver the best solutions to your problems."
+      },
+      "2": {
+        "title": "UI/UX Design",
+        "p": "We’ll build the design together meaning at each step we’ll send the result in order for you to deside if it’s okey or you want to change something on the design."
+      },
+      "3": {
+        "title": "Development",
+        "p": "As for the design, in the development section as well each step will be sent to you to validate, it’s going to be a team work between you and us."
+      },
+      "4": {
+        "title": "Results",
+        "p": "At the end you’ll get your web app, mobile app, or desktop app as you desired it. And we might go as far as maintain it for you."
+      }
+    }
+  },
+  "contact":{
+    "h1": "Contact Us",
+    "form": {
+      "firstname": "First Name",
+      "lastname": "Last Name",
+      "phone": "Phone Number",
+      "email": "Email",
+      "message": "Enter your message",
+      "button": "Send"
+    }
+  },
+  "Form":{
+    "title1":"What are we building ?",
+    "form1":{
+      "plateform":{
+        "list1":"website",
+        "list2":"web app",
+        "list3":"pwa"
+      },
+      "type":{
+        "list1":"E-commerce",
+        "list2":"Blog",
+        "list3":"Portfolio",
+        "list4":"Entertainment website",
+        "list5":"E-Learning",
+        "list6":"Infoproneur website",
+        "list7":"Webportal website",
+        "list8":"Other",
+        "placeholder1":"Select a plateform",
+        "placeholder2":"Type of app",
+        "placeholder3":"Enter the Type of App",
+        "placeholder4":"Enter the Type app name",
+        "placeholder5":"Enter your app description",
+        "placeholder6":"Select a goal"
+      }
+    },
+   
+    "Goal":{
+      "title":"What is the goal ?",
+      "goal1":"Get people to sign in for early access",
+      "goal2":"Show benefit of using the platform",
+      "goal3":"A place for more information and contact...",
+      "goal4":"Other",
+      "placeholder":"Enter the goal"
+    },
+    "target":{
+      "title":"Who is the target audience ?",
+      "target1":"Remote teams",
+      "target2":"Individuals",
+      "target3":"Public Services",
+      "target4":"Small businesses",
+      "target5":"Other",
+      "placeholder":"Enter the target audience"
+    },
+    "functionnality":{
+      "title":"Add specific functionnalities ?",
+      "functionnality1":"Blog",
+      "functionnality2":"News-Letter",
+      "functionnality3":"Form-submission",
+      "placeholder":"Enter the functionnality"
+
+    },
+    "button1":"Save",
+    "button2":"DOWNLOAD INVOICE",
+    "title2":"You already have a design share it with us",
+    "upload":{
+      "title":"Upload files",
+      "p":"Designs must be figma or sketch or adobe xd orpdf format, Heigh resolutionimage.",
+      "button":"Upload"
+    },
+    "link":"Include a figma link to your project",
+    "button":"submit"
+    }
+  }
+

@@ -1,0 +1,29 @@
+{
+    "banner":{
+        "h1":"We intend to change. the whole game",
+        "p":"Hotcodes provide the best services for your business and allow it to grow faster.",
+        "button":"Learn More"
+    },
+    
+    "presentation":{
+        "aboutUs":{
+
+            "h1":"Who. we are",
+            "p":"Hotcodes is a development organization in the IT sector aiming to conquer the largest international markets and participate in the creation of unicorns in Senegal."
+        },
+        "mission":{
+            "h1":"Our. mission",
+            "p":"Currently, hotcodes identifies as a service company and also a cradle of IT startups, our goal is to create unicorns while attracting the largest number of investors in Senegal."
+        },
+        "vision":{
+            "h1":"Our. vision",
+            "p":"Our vision is to initiate the digital and industrial revolution in Senegal. Participate in the creation of industrial companies for the production and transformation of mechanical and digital parts, the creation of software, automated systems and robotics."
+        }
+
+    },
+    "team":{
+        "h1":"Our Leading Team",
+        "job":"Developer"
+    }
+    
+}

@@ -1,0 +1,15 @@
+{
+    "first":"We use multi-mic and echo cancellation technology so that everyone can use device",
+    "about": {
+        "title": "About Us",
+        "about1":"Our Team",
+        "about2":"Products",
+        "about3":"Blogs"
+    },
+    "company":{
+        "title":"Company",
+        "company1":"Parteners",
+        "company2":"Careers",
+        "company3":"Contact Us"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "banner":{
+        "h1":"Get your own mobile apps for iOS and Android without any hassle! ",
+        "p":"Nous vous aidons à transformer votre marque grâce à la stratégie numérique, au développement technologique, au marketing numérique et à l'automatisation du marketing."
+    },
+    "ios": {
+        "h1": "Native. Ios Apps",
+        "p":"We build optimized, secure and fast native ios apps, by using xcode."
+    },
+    "android": {
+        "h1": "Native. Android Apps",
+        "p":"We build optimized, secure and fast native android apps, by using android studio."
+    },
+    "hybrid":{
+        "h1":"Hybrid. Apps",
+        "p":"We build optimized, secure and fast hybrid mobile apps."
+    }
+}

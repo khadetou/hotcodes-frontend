@@ -8,7 +8,7 @@ import React from "react";
 import reactjs from "/public/images/tools/reactjs.svg";
 import angular from "/public/images/tools/angular.svg";
 import nextjs from "/public/images/tools/nextjs.svg";
-import vuejs from "/public/images/tools/vuejs.svg";
+import vuejs from "/public/images/tools/Vuejs.svg";
 import javascript from "/public/images/tools/javascript.svg";
 import html from "/public/images/tools/html.svg";
 import css from "/public/images/tools/css.svg";

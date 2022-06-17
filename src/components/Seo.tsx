@@ -10,7 +10,7 @@ interface SeoProps {
 }
 
 const SEO: FC<SeoProps> = ({
-  description = "Hotcodes landing page",
+  description = "Hotcodes Agence digital au Sénégal, Berceau de Startup au Sénégal, Entreprise de développement web mobile et desktop, Développement de site web et application mobile, Développement de logiciel.",
   author = "Khadetou Dianifabe",
   meta,
   title = "Hotcodes",

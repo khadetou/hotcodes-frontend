@@ -1,6 +1,7 @@
 import Footer from "@/components/footer/Footer";
 import Header from "@/components/header";
 import Seo from "@/components/Seo";
+import WhatsAppFloating from "@/components/Whatsapp";
 import ProjectScreen from "@/screens/projects";
 import React from "react";
 
@@ -14,6 +15,7 @@ const Projects = () => {
         buttonClassName="bg-grad-text-2 text-white "
       />
       <ProjectScreen />
+      <WhatsAppFloating />
       <Footer />
     </>
   );

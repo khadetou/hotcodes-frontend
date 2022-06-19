@@ -1,5 +1,6 @@
 import React from "react";
-import Team1 from "/public/images/about/team1.png";
+// import Team1 from "/public/images/about/team1.png";
+import ceo from "/public/images/about/ceo.png";
 import Image from "next/image";
 import { FiTwitter, FiInstagram } from "react-icons/fi";
 import { FaFacebookF, FaLinkedinIn } from "react-icons/fa";
@@ -11,7 +12,7 @@ const Card = () => {
   return (
     <div className="w-full max-w-[413px] h-[575px] bg-white rounded-[25px] p-[15px] shadow-shadow-sm">
       <div>
-        <Image src={Team1} />
+        <Image src={ceo} />
       </div>
       <div>
         <h1 className="text-dark text-[34px] mt-[38px] mb-[16px] text-center font-bold">

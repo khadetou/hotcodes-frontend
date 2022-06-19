@@ -1,5 +1,6 @@
 import Footer from "@/components/footer/Footer";
 import Header from "@/components/header";
+import WhatsAppFloating from "@/components/Whatsapp";
 import WorkScreen from "@/screens/work";
 import React from "react";
 
@@ -12,6 +13,7 @@ const Work = () => {
         buttonClassName="bg-grad-text-2 text-white "
       />
       <WorkScreen />
+      <WhatsAppFloating />
       <Footer />
     </>
   );

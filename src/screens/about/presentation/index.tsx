@@ -20,7 +20,7 @@ const Presentation = () => {
       style: "lg:flex-row-reverse",
       flip: "",
       data: "fade-right",
-      dataos: "fade-left",
+      dataos: "fade-down",
     },
     {
       title: "",
@@ -30,7 +30,7 @@ const Presentation = () => {
       src: Mission,
       style: "lg:flex-row",
       flip: "",
-      data: "fade-left",
+      data: "fade-down",
       dataos: "fade-right",
     },
     {
@@ -42,7 +42,7 @@ const Presentation = () => {
       style: "lg:flex-row-reverse",
       flip: "",
       data: "fade-right",
-      dataos: "fade-left",
+      dataos: "fade-down",
     },
   ];
 

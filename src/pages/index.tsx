@@ -39,7 +39,7 @@ const Home: NextPage<IProps> = ({ token }) => {
   return (
     <>
       <Header />
-      <SEO title="Hotcodes Entreprise de berceau de Startups Au Sénégal" />
+      <SEO title="Hotcodes" />
       <Banner play={play} setPlay={setPlay} />
       <Services />
       <Presentation />

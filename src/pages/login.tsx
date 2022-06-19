@@ -1,5 +1,5 @@
 import { GetServerSideProps, NextPage } from "next";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { useActions } from "@/hooks/useActions";
 import { useTypedSelector } from "@/hooks/useTypeSelector";
 import { useRouter } from "next/router";

@@ -11,10 +11,10 @@ const Banner: FC<{ play?: boolean; setPlay?: any }> = ({ play, setPlay }) => {
 
   return (
     <>
-      <Video play={play} setPlay={setPlay} />
+      <Video play={play} setPlay={setPlay} vidId="6qL8GmwgM_0" />
       <div
         onClick={() => setPlay(false)}
-        className={`bg-black opacity-10 z-10 fixed top-0 left-0 right-0 bottom-0 ${
+        className={`bg-black opacity-40 z-10 fixed top-0 left-0 right-0 bottom-0 ${
           play ? "block" : "hidden"
         }`}
       />

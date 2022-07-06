@@ -13,7 +13,7 @@ const SEO: FC<SeoProps> = ({
   description = "Hotcodes Agence digital au Sénégal, Berceau de Startup au Sénégal, Entreprise de développement web mobile et desktop, Développement de site web et application mobile, Développement de logiciel.",
   author = "Khadetou Dianifabe",
   meta,
-  title = "Hotcodes",
+  title = "Hotcodes, agence digital à dakar",
 }) => {
   const metaData = [
     {
@@ -35,6 +35,10 @@ const SEO: FC<SeoProps> = ({
     {
       name: "twitter:card",
       content: "summary",
+    },
+    {
+      name: "google-site-verification",
+      content: "-aqSGw-Avdm35YFpatuwJbLsWZNQBkXBRlJA2JJTdWQ",
     },
     {
       name: "twitter:creator",

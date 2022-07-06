@@ -13,7 +13,7 @@ import React from "react";
 const About = () => {
   return (
     <>
-      <SEO title="About" />
+      <SEO title="About" description="About us | A propos de hotcodes" />
       <Header />
       <Banner />
       <Presentation />

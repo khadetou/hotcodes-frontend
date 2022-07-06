@@ -46,8 +46,8 @@ const UpdateProfile: NextPage = () => {
   }
 
   return (
-    <div>
-      <h1>{user?.password ? "Update user profile" : "Proceed Checking"}</h1>
+    <section>
+      {/* <h1>{user?.password ? "Update user profile" : "Proceed Checking"}</h1> */}
       <form onSubmit={(e) => onSubmit(e)}>
         {user?.password && (
           <>
@@ -98,7 +98,7 @@ const UpdateProfile: NextPage = () => {
           <button onClick={() => router.push("/")}>Go back</button>
         )}
       </form>
-    </div>
+    </section>
   );
 };
 

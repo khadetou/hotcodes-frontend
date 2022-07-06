@@ -39,7 +39,7 @@ const Home: NextPage<IProps> = ({ token }) => {
   return (
     <>
       <Header />
-      <SEO title="Hotcodes" />
+      <SEO title="Hotcodes | Creation de site web, d'application mobile et d'application de desktop" />
       <Banner play={play} setPlay={setPlay} />
       <Services />
       <Presentation />

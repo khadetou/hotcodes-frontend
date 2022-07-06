@@ -77,27 +77,27 @@ const Header: FC<HeaderProps> = ({
                   {title.toLocaleLowerCase() === "services" && (
                     <div className="absolute !w-[245px] rounded-md top-7  bg-white transition-transform ease-linear duration-300 shadow-shadow-sm  text-dark   invisible translate-x-3 translate-y-12 opacity-0  group-hover:visible group-hover:opacity-100 group-hover:translate-y-[21px] group-hover:translate-x-0">
                       <Link href="/orders/design">
-                        <a className="!text-base inline-block w-full py-4 hover:text-dark-pink !font-medium text-gray">
+                        <span className="!text-base inline-block w-full py-4 hover:text-dark-pink !font-medium text-gray">
                           Ui/Ux Design
-                        </a>
+                        </span>
                       </Link>
                       <hr className="text-light-gray" />
                       <Link href="/orders/web">
-                        <a className="!text-base inline-block w-full py-4  hover:text-dark-pink !font-medium text-gray">
+                        <span className="!text-base inline-block w-full py-4  hover:text-dark-pink !font-medium text-gray">
                           Web Developement
-                        </a>
+                        </span>
                       </Link>
                       <hr className="text-light-gray" />
                       <Link href="/orders/mobile">
-                        <a className="!text-base hover:text-dark-pink inline-block w-full py-4  !font-medium text-gray">
+                        <span className="!text-base hover:text-dark-pink inline-block w-full py-4  !font-medium text-gray">
                           Mobile Developement
-                        </a>
+                        </span>
                       </Link>
                       <hr className="text-light-gray" />
                       <Link href="/orders/marketing">
-                        <a className="!text-base w-full py-4  hover:text-dark-pink inline-block !font-medium text-gray">
+                        <span className="!text-base w-full py-4  hover:text-dark-pink inline-block !font-medium text-gray">
                           Digital Marketing
-                        </a>
+                        </span>
                       </Link>
                     </div>
                   )}
@@ -110,27 +110,27 @@ const Header: FC<HeaderProps> = ({
             {!isAuthenticated ? (
               <div className="lg:flex  hidden items-center">
                 <Link href="/login">
-                  <button className="mx-[15px] sm:mx-[30px] lg:mx-0">
+                  <span className="mx-[15px] sm:mx-[30px] lg:mx-0">
                     <FaUser className="text-white text-[20px] sm:text-[26px]  text-xl block lg:hidden" />
-                  </button>
+                  </span>
                 </Link>
 
                 <Link href="/login">
-                  <button className="m-0 lg:mx-[30px] ">
+                  <span className="m-0 lg:mx-[30px] ">
                     <AiOutlineLogin
                       title="Login"
                       size="29px"
                       className="cursor-pointer hidden lg:block"
                     />
-                  </button>
+                  </span>
                 </Link>
                 <Link href="/register">
                   <button>
-                    <a
+                    <span
                       className={`border-2 border-white rounded-md font-medium text-sm mr-2 px-2 xxs:font-bold xxs:text-base xxs:mr-0 xxs:px-10 xxs:py-1 ${buttonClassName}`}
                     >
                       {t("signup")}
-                    </a>
+                    </span>
                   </button>
                 </Link>
               </div>
